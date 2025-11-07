@@ -24,46 +24,76 @@ My greatest strength lies in **business awareness**, which enables me to design,
 
 ---
 
----
 
-### 💰 Pricing (INR)
+<section id="pricing">
+  <h2>💻 Website Development Pricing (INR)</h2>
 
-<div align="center">
+  <div style="max-width:1000px;margin:20px auto;padding:10px;">
+    <table class="pricing-table" style="width:100%;border-collapse:collapse;box-shadow:0 2px 8px rgba(0,0,0,0.08);overflow:hidden;border-radius:8px;">
+      <thead>
+        <tr style="background:#0056b3;color:#fff;">
+          <th style="padding:14px 12px;text-align:left;">Package</th>
+          <th style="padding:14px 12px;text-align:left;">What's included</th>
+          <th style="padding:14px 12px;text-align:left;white-space:nowrap;">Starting Price (INR)</th>
+        </tr>
+      </thead>
 
-<table style="width:80%; border-collapse:collapse; text-align:center;">
-  <tr style="background-color:#007acc; color:white;">
-    <th style="padding:10px;">Service</th>
-    <th style="padding:10px;">Starting Price</th>
-    <th style="padding:10px;">Details</th>
-  </tr>
-  <tr style="background-color:#f2f2f2;">
-    <td style="padding:10px;">Informative Website</td>
-    <td style="padding:10px;">₹10,000 – ₹15,000</td>
-    <td style="padding:10px;">Single-page or multi-page site with custom design</td>
-  </tr>
-  <tr>
-    <td style="padding:10px;">Blog Website</td>
-    <td style="padding:10px;">₹12,000 – ₹18,000</td>
-    <td style="padding:10px;">SEO-optimized blog platform with admin controls</td>
-  </tr>
-  <tr style="background-color:#f2f2f2;">
-    <td style="padding:10px;">E-Commerce Store</td>
-    <td style="padding:10px;">₹20,000 – ₹35,000</td>
-    <td style="padding:10px;">Fully functional online store (Shopify / WordPress)</td>
-  </tr>
-  <tr>
-    <td style="padding:10px;">Website Redesign or Update</td>
-    <td style="padding:10px;">₹5,000 – ₹10,000</td>
-    <td style="padding:10px;">Modernizing or fixing your existing site</td>
-  </tr>
-  <tr style="background-color:#f2f2f2;">
-    <td style="padding:10px;">Maintenance & Support</td>
-    <td style="padding:10px;">₹2,000 / month</td>
-    <td style="padding:10px;">Regular updates, backups, and technical support</td>
-  </tr>
-</table>
+      <tbody>
+        <tr style="background:#fafafa;">
+          <td style="padding:12px;font-weight:600;">One-page / Landing Page</td>
+          <td style="padding:12px;">Single responsive page, contact form, basic on-page SEO, 1 revision, deployment</td>
+          <td style="padding:12px;">₹5,000 – ₹15,000</td>
+        </tr>
 
-</div>
+        <tr>
+          <td style="padding:12px;font-weight:600;">Basic Informative Site</td>
+          <td style="padding:12px;">4–6 pages (Home, About, Services, Contact, Blog starter), responsive, contact form, basic SEO</td>
+          <td style="padding:12px;">₹12,000 – ₹40,000</td>
+        </tr>
+
+        <tr style="background:#fafafa;">
+          <td style="padding:12px;font-weight:600;">Blog Site (WordPress)</td>
+          <td style="padding:12px;">WP install, theme setup, categories, up to 10 posts/pages, social sharing, basic SEO</td>
+          <td style="padding:12px;">₹10,000 – ₹30,000</td>
+        </tr>
+
+        <tr>
+          <td style="padding:12px;font-weight:600;">Standard / Medium Business Site</td>
+          <td style="padding:12px;">6–12 pages, custom layout, moderate revisions, performance & speed tweaks, on-page SEO</td>
+          <td style="padding:12px;">₹30,000 – ₹75,000</td>
+        </tr>
+
+        <tr style="background:#fafafa;">
+          <td style="padding:12px;font-weight:600;">Small E-commerce Store (Starter)</td>
+          <td style="padding:12px;">Shopify / WooCommerce setup, up to 50 products, payment gateway, shipping config, admin training</td>
+          <td style="padding:12px;">₹40,000 – ₹1,20,000</td>
+        </tr>
+
+        <tr>
+          <td style="padding:12px;font-weight:600;">Medium E-commerce / Custom</td>
+          <td style="padding:12px;">50–500 products, custom integrations, apps/plugins, automation, performance/safety optimisations</td>
+          <td style="padding:12px;">₹1,20,000 – ₹4,00,000+</td>
+        </tr>
+
+        <tr style="background:#fafafa;">
+          <td style="padding:12px;font-weight:600;">Add-ons (per item)</td>
+          <td style="padding:12px;">Content writing, product data entry, multilingual, advanced analytics, custom plugin/API work (priced per scope)</td>
+          <td style="padding:12px;">₹3,000 – ₹50,000 (varies)</td>
+        </tr>
+
+        <tr>
+          <td style="padding:12px;font-weight:600;">Maintenance & Support (monthly)</td>
+          <td style="padding:12px;">Updates, backups, small edits, uptime monitoring, security patches</td>
+          <td style="padding:12px;">₹2,000 – ₹10,000 / month</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p style="text-align:center;margin-top:14px;color:#333;font-size:0.95rem;">
+      <strong>Note:</strong> Exact quotes depend on project scope, integrations, and content readiness. For a tailored estimate, please <a href="#contact" style="color:#0056b3;text-decoration:underline;">contact me</a>.
+    </p>
+  </div>
+</section>
 
 
 ---
