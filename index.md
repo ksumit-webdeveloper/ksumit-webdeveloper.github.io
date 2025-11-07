@@ -105,7 +105,7 @@ My greatest strength lies in **business awareness**, which enables me to design,
 
 <section id="websites">
 
-<h2> 🌐 Websites I’ve Developed</h2>
+<h2>🌐 Websites I’ve Developed</h2>
 
 - [Damiva.com](https://damiva.com)
 - [Blog.Damiva.com](https://blog.damiva.com)
@@ -170,9 +170,8 @@ My greatest strength lies in **business awareness**, which enables me to design,
         </tr>
       </tbody>
     </table>
-
-    <p style="text-align:center;margin-top:14px;color:#333;font-size:0.95rem;">
-      <strong>Note:</strong> Exact quotes depend on project scope, integrations, and content readiness. For a tailored estimate, please <a href="#contact" style="color:#0056b3;text-decoration:underline;">contact me</a>.
+    <p style="text-align:center; margin-top:14px; color:#333; font-size:0.95rem;">
+   <strong>Note:</strong> Exact quotes depend on project scope, integrations, and content readiness. For a tailored estimate, please <a href="#contact" style="color:#0056b3; text-decoration:underline;">contact me</a>.
     </p>
   </div>
 </section>
@@ -181,7 +180,7 @@ My greatest strength lies in **business awareness**, which enables me to design,
 
 <section id="blog">
 
-<h2> 📰 Blog</h2>
+<h2>📰 Blog</h2>
 
 #### My Approach to Website Development
 Crafting websites isn’t just about design—it’s about purpose. Every website I build aligns with the client’s business goals and long-term growth.
@@ -209,8 +208,9 @@ Your message will be sent directly to my inbox.
 
 <p style="text-align:center; margin-top:20px;">
   
-📧 [sumit.srcm@gmail.com](mailto:sumit.srcm@gmail.com)  
-📱 +91 9450142100  
+📧 [sumit.srcm@gmail.com](mailto:sumit.srcm@gmail.com) 
+📱 +91 9450142100 
+
 🌐 [GitHub Profile](https://github.com/ksumit-webdeveloper)
 
 </p>
