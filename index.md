@@ -24,12 +24,47 @@ My greatest strength lies in **business awareness**, which enables me to design,
 
 ---
 
+---
+
 ### 💰 Pricing (INR)
-| Service | Starting Price |
-|----------|----------------|
-| Informative Website | ₹10,000 |
-| Blog Website | ₹12,000 |
-| E-Commerce Store | ₹20,000 |
+
+<div align="center">
+
+<table style="width:80%; border-collapse:collapse; text-align:center;">
+  <tr style="background-color:#007acc; color:white;">
+    <th style="padding:10px;">Service</th>
+    <th style="padding:10px;">Starting Price</th>
+    <th style="padding:10px;">Details</th>
+  </tr>
+  <tr style="background-color:#f2f2f2;">
+    <td style="padding:10px;">Informative Website</td>
+    <td style="padding:10px;">₹10,000 – ₹15,000</td>
+    <td style="padding:10px;">Single-page or multi-page site with custom design</td>
+  </tr>
+  <tr>
+    <td style="padding:10px;">Blog Website</td>
+    <td style="padding:10px;">₹12,000 – ₹18,000</td>
+    <td style="padding:10px;">SEO-optimized blog platform with admin controls</td>
+  </tr>
+  <tr style="background-color:#f2f2f2;">
+    <td style="padding:10px;">E-Commerce Store</td>
+    <td style="padding:10px;">₹20,000 – ₹35,000</td>
+    <td style="padding:10px;">Fully functional online store (Shopify / WordPress)</td>
+  </tr>
+  <tr>
+    <td style="padding:10px;">Website Redesign or Update</td>
+    <td style="padding:10px;">₹5,000 – ₹10,000</td>
+    <td style="padding:10px;">Modernizing or fixing your existing site</td>
+  </tr>
+  <tr style="background-color:#f2f2f2;">
+    <td style="padding:10px;">Maintenance & Support</td>
+    <td style="padding:10px;">₹2,000 / month</td>
+    <td style="padding:10px;">Regular updates, backups, and technical support</td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
