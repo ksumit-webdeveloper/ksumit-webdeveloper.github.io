@@ -164,6 +164,7 @@ My greatest strength lies in **business awareness**, which enables me to design,
   </div>
 </section>
 
+
 ---
 ### 📰 Blog
 #### My Approach to Website Development
