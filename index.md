@@ -24,23 +24,80 @@ My greatest strength lies in **business awareness**, which enables me to design,
 
 ---
 
+---
 
-<section id="pricing">
+### 💼 Pricing Packages (INR)
+
+<div align="center">
+
+<table style="width:95%; border-collapse:collapse; text-align:center; border-radius:10px; overflow:hidden; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
+
+  <tr style="background-color:#007acc; color:#fff;">
+    <th style="padding:15px;">Package</th>
+    <th style="padding:15px;">Features Included</th>
+    <th style="padding:15px;">Starting Price</th>
+  </tr>
+
+  <tr style="background-color:#f9f9f9;">
+    <td style="padding:12px; font-weight:bold;">Starter Website</td>
+    <td style="padding:12px;">1–3 Pages • Responsive Design • Contact Form • Basic SEO Setup • Delivery in 5 days</td>
+    <td style="padding:12px;">₹8,000</td>
+  </tr>
+
+  <tr>
+    <td style="padding:12px; font-weight:bold;">Standard Website</td>
+    <td style="padding:12px;">Up to 6 Pages • Custom Layout • Image Gallery • Blog Setup • Contact Form • SEO Ready</td>
+    <td style="padding:12px;">₹12,000 – ₹18,000</td>
+  </tr>
+
+  <tr style="background-color:#f9f9f9;">
+    <td style="padding:12px; font-weight:bold;">Business Website</td>
+    <td style="padding:12px;">10+ Pages • CMS Integration (WordPress/Shopify) • Blog • Inquiry Form • On-Page SEO • WhatsApp Integration</td>
+    <td style="padding:12px;">₹20,000 – ₹28,000</td>
+  </tr>
+
+  <tr>
+    <td style="padding:12px; font-weight:bold;">E-Commerce Website</td>
+    <td style="padding:12px;">Shopify / WooCommerce Setup • Product Pages • Payment Gateway • Coupons & Shipping • Admin Panel</td>
+    <td style="padding:12px;">₹30,000 – ₹45,000</td>
+  </tr>
+
+  <tr style="background-color:#f9f9f9;">
+    <td style="padding:12px; font-weight:bold;">Premium / Enterprise Package</td>
+    <td style="padding:12px;">Custom UI/UX Design • Multi-language Setup • API / AI Integration • Automation & Advanced SEO • Dedicated Support</td>
+    <td style="padding:12px;">₹60,000+</td>
+  </tr>
+
+  <tr>
+    <td style="padding:12px; font-weight:bold;">Maintenance & Support</td>
+    <td style="padding:12px;">Hosting Assistance • Monthly Backup • Security Monitoring • Speed Optimization</td>
+    <td style="padding:12px;">₹2,000 / month</td>
+  </tr>
+
+</table>
+
+<br>
+
+> 💬 *Custom packages are available for startups and long-term projects. Let’s discuss your specific needs and build the right plan for you.*
+
+</div>
+
+
   <h2>💻 Website Development Pricing (INR)</h2>
 
-  <div style="max-width:1000px;margin:20px auto;padding:10px;">
-    <table class="pricing-table" style="width:100%;border-collapse:collapse;box-shadow:0 2px 8px rgba(0,0,0,0.08);overflow:hidden;border-radius:8px;">
+  <div style="max-width:1000px; margin:20px auto; padding:10px;">
+    <table class="pricing-table" style="width:100%; border-collapse:collapse; box-shadow:0 2px 8px rgba(0,0,0,0.08); overflow:hidden; border-radius:8px;">
       <thead>
-        <tr style="background:#0056b3;color:#fff;">
-          <th style="padding:14px 12px;text-align:left;">Package</th>
-          <th style="padding:14px 12px;text-align:left;">What's included</th>
-          <th style="padding:14px 12px;text-align:left;white-space:nowrap;">Starting Price (INR)</th>
+        <tr style="background:#0056b3; color:#fff;">
+          <th style="padding:14px 12px; text-align:left;">Package</th>
+          <th style="padding:14px 12px; text-align:left;">What's included</th>
+          <th style="padding:14px 12px; text-align:left; white-space:nowrap;">Starting Price (INR)</th>
         </tr>
       </thead>
 
       <tbody>
         <tr style="background:#fafafa;">
-          <td style="padding:12px;font-weight:600;">One-page / Landing Page</td>
+          <td style="padding:12px; font-weight:600;">One-page / Landing Page</td>
           <td style="padding:12px;">Single responsive page, contact form, basic on-page SEO, 1 revision, deployment</td>
           <td style="padding:12px;">₹5,000 – ₹15,000</td>
         </tr>
@@ -93,7 +150,6 @@ My greatest strength lies in **business awareness**, which enables me to design,
       <strong>Note:</strong> Exact quotes depend on project scope, integrations, and content readiness. For a tailored estimate, please <a href="#contact" style="color:#0056b3;text-decoration:underline;">contact me</a>.
     </p>
   </div>
-</section>
 
 
 ---
