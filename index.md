@@ -88,7 +88,7 @@ button:hover {
 
 <section id="about">
 
-### 💼 About Me
+<h2>💼 About Me</h2>
 I’m an IT Professional with over 10 years of experience specializing in **Operations Management for online marketplaces**.  
 My expertise covers all aspects of **e-commerce management**, including **product listing, catalog optimization, SEO, sales, and return management**.  
 
@@ -102,7 +102,7 @@ My greatest strength lies in **business awareness**, which enables me to design,
 
 <section id="websites">
 
-### 🌐 Websites I’ve Developed
+<h2> 🌐 Websites I’ve Developed</h2>
 - [Damiva.com](https://damiva.com)
 - [Blog.Damiva.com](https://blog.damiva.com)
 
@@ -176,7 +176,7 @@ My greatest strength lies in **business awareness**, which enables me to design,
 
 <section id="blog">
 
-### 📰 Blog
+<h2> 📰 Blog</h2>
 #### My Approach to Website Development
 Crafting websites isn’t just about design—it’s about purpose. Every website I build aligns with the client’s business goals and long-term growth.
 
@@ -189,7 +189,7 @@ From managing thousands of SKUs to optimizing return cycles, my work has taught 
 
 <section id="contact">
 
-### 📞 Contact Me
+<h2> 📞 Contact Me</h2>
 If you’d like to discuss a project or request a quote, please fill out the form below.  
 Your message will be sent directly to my inbox.
 
