@@ -26,7 +26,7 @@ My greatest strength lies in **business awareness**, which enables me to design,
 
 
 <h2>💻 Website Development Pricing (INR)</h2>
-<div align="center">
+  <div style="max-width:1000px; margin:20px auto; padding:10px;">
 
 <table style="width:95%; border-collapse:collapse; text-align:center; border-radius:10px; overflow:hidden; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
 
@@ -88,7 +88,7 @@ My greatest strength lies in **business awareness**, which enables me to design,
 
 <br>
 
-> 💬 *Custom packages are available for startups and long-term projects. Let’s discuss your specific needs and build the right plan for you.*
+ 💬 *Custom packages are available for startups and long-term projects. Let’s discuss your specific needs and build the right plan for you.*
 
 </div>
 
