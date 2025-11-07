@@ -1,0 +1,14 @@
+title: "Sumit Kumar"
+description: "Building Digital Solutions for Online Businesses"
+theme: jekyll-theme-cayman
+
+url: "https://ksumit-webdeveloper.github.io"
+author: 
+  name: "Sumit Kumar"
+  email: "sumit.srcm@gmail.com"
+
+show_downloads: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
