@@ -4,82 +4,177 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sumit Kumar | Web Developer</title>
-  <link rel="icon" type="image/png" href="images/favicon.png" />
+  <link rel="icon" href="images/favicon.png" type="image/png" />
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: 'Poppins', sans-serif; color: #333; background: #fff; line-height: 1.6; }
-    header { background: #007bff; color: white; padding: 2rem 1rem; text-align: center; }
-    header h1 { font-size: 2rem; }
-    header p { font-size: 1.1rem; }
-    section { padding: 2rem 1rem; max-width: 900px; margin: auto; }
-    h2 { color: #007bff; border-bottom: 2px solid #007bff; display: inline-block; margin-bottom: 1rem; }
-    .services, .portfolio, .pricing, .contact { margin-top: 2rem; }
-    .service-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; }
-    .service { background: #f8f9fa; padding: 1rem; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1); }
-    .pricing-table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
-    .pricing-table th, .pricing-table td { border: 1px solid #ddd; padding: 10px; text-align: center; }
-    .pricing-table th { background: #007bff; color: white; }
-    form { display: flex; flex-direction: column; gap: 1rem; max-width: 600px; margin: 1rem auto; }
-    input, textarea { padding: 0.8rem; border: 1px solid #ccc; border-radius: 5px; }
-    button { background: #007bff; color: white; padding: 0.8rem; border: none; border-radius: 5px; cursor: pointer; transition: 0.3s; }
-    button:hover { background: #0056b3; }
-    footer { background: #f1f1f1; text-align: center; padding: 1rem; margin-top: 2rem; }
-    a { color: #007bff; text-decoration: none; }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #222;
+      background-color: #fff;
+    }
+    header {
+      background-color: #0056b3;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    section {
+      padding: 60px 20px;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    h2 {
+      text-align: center;
+      color: #0056b3;
+      margin-bottom: 40px;
+    }
+    .pricing-table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #f9f9f9;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .pricing-table th, .pricing-table td {
+      border: 1px solid #ddd;
+      padding: 15px;
+      text-align: left;
+    }
+    .pricing-table th {
+      background-color: #0056b3;
+      color: white;
+    }
+    .pricing-table tr:hover {
+      background-color: #eef5ff;
+    }
+    footer {
+      background-color: #0056b3;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    input, textarea {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      background-color: #0056b3;
+      color: white;
+      border: none;
+      padding: 10px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+    button:hover {
+      background-color: #004494;
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>Sumit Kumar</h1>
-    <p>IT Professional | Web Developer | E-commerce Expert</p>
+    <p>IT Professional & E-commerce Website Developer</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#pricing">Pricing</a>
+      <a href="#contact">Contact</a>
+    </nav>
   </header>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I am an IT professional and E-commerce manager specializing in building high-performance websites — from informative and blog sites to advanced e-commerce stores. My goal is to create user-friendly, responsive, and conversion-optimized websites that help businesses grow online.</p>
+    <p style="text-align:center;max-width:700px;margin:auto;">
+      I am an IT professional and experienced E-commerce manager, specializing in building
+      informative, blog, and e-commerce websites. I help businesses establish their online presence
+      through responsive, SEO-friendly, and user-centric web designs.
+    </p>
   </section>
 
-  <section id="services" class="services">
+  <section id="services">
     <h2>Services</h2>
-    <div class="service-list">
-      <div class="service"><h3>Informative Website</h3><p>Beautifully crafted websites for businesses, organizations, or individuals to showcase their brand and services.</p></div>
-      <div class="service"><h3>E-commerce Website</h3><p>Fully functional online stores with secure payment integration, product management, and order automation.</p></div>
-      <div class="service"><h3>Blog Website</h3><p>SEO-friendly blog sites with clean design and easy content management for writers and creators.</p></div>
-      <div class="service"><h3>Website Redesign</h3><p>Modernize your existing site for improved performance, look, and user experience.</p></div>
-    </div>
-  </section>
-
-  <section id="portfolio" class="portfolio">
-    <h2>Portfolio</h2>
-    <ul>
-      <li><strong>Blog:</strong> <a href="https://blog.damiva.com" target="_blank">blog.damiva.com</a></li>
-      <li><strong>E-commerce:</strong> <a href="https://damiva.com" target="_blank">damiva.com</a></li>
+    <ul style="max-width:700px;margin:auto;line-height:1.8;">
+      <li>Informative & Business Websites</li>
+      <li>Blog & Personal Websites</li>
+      <li>E-commerce Website Design (Shopify, WordPress, Custom)</li>
+      <li>Website Maintenance & SEO Optimization</li>
     </ul>
   </section>
 
-  <section id="pricing" class="pricing">
-    <h2>Pricing</h2>
+  <section id="pricing">
+    <h2>💻 Website Development Pricing (INR)</h2>
     <table class="pricing-table">
-      <tr><th>Service</th><th>Starting Price (INR)</th></tr>
-      <tr><td>Informative Website</td><td>₹7,000</td></tr>
-      <tr><td>Blog Website</td><td>₹9,000</td></tr>
-      <tr><td>E-commerce Website</td><td>₹15,000</td></tr>
-      <tr><td>Website Redesign</td><td>₹5,000</td></tr>
+      <tr>
+        <th>Service</th>
+        <th>What’s Included</th>
+        <th>Starting Price (INR)</th>
+      </tr>
+      <tr>
+        <td>One‑page / Landing Page</td>
+        <td>Single responsive page, contact form, basic SEO</td>
+        <td>₹5,000 – ₹15,000</td>
+      </tr>
+      <tr>
+        <td>Basic Blog Website</td>
+        <td>Self‑hosted WordPress blog, theme setup, up to ~10 posts/pages, SEO basics</td>
+        <td>₹10,000 – ₹30,000</td>
+      </tr>
+      <tr>
+        <td>Informative / Business Website</td>
+        <td>4‑8 pages, responsive, contact form, basic SEO, content ready</td>
+        <td>₹15,000 – ₹40,000</td>
+      </tr>
+      <tr>
+        <td>Standard/Medium Business Website</td>
+        <td>6‑12 pages, custom styling/layout, moderate revisions, speed optimisation</td>
+        <td>₹30,000 – ₹75,000</td>
+      </tr>
+      <tr>
+        <td>Small E‑commerce Store</td>
+        <td>Up to ~50 products, payment gateway, product upload, basic admin training</td>
+        <td>₹40,000 – ₹1,20,000</td>
+      </tr>
+      <tr>
+        <td>Medium E‑commerce / Custom Features</td>
+        <td>50‑500 products, custom integrations/plugins, advanced features</td>
+        <td>₹1,20,000 – ₹4,00,000+</td>
+      </tr>
+      <tr>
+        <td>Monthly Maintenance & Support</td>
+        <td>Updates, backups, small edits, monitoring (per month)</td>
+        <td>₹2,000 – ₹10,000 / month</td>
+      </tr>
     </table>
   </section>
 
-  <section id="contact" class="contact">
+  <section id="contact">
     <h2>Contact Me</h2>
-    <form action="https://formspree.io/f/xnnqpkkn" method="POST">
+    <form action="https://formspree.io/f/xwpkjyby" method="POST">
       <input type="text" name="name" placeholder="Your Name" required />
       <input type="email" name="email" placeholder="Your Email" required />
       <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
       <button type="submit">Send Message</button>
     </form>
-    <p>Or reach me directly at: <a href="mailto:sumit.srcm@gmail.com">sumit.srcm@gmail.com</a> | <a href="tel:+919450142100">+91 9450142100</a></p>
+    <p style="text-align:center;margin-top:20px;">📞 +91 9450142100 | ✉️ sumit.srcm@gmail.com</p>
   </section>
 
   <footer>
-    <p>© 2025 Sumit Kumar | Web Development Portfolio</p>
+    <p>© 2025 Sumit Kumar | Designed & Developed by Sumit Kumar</p>
   </footer>
 </body>
 </html>
