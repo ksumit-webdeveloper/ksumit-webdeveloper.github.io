@@ -1,0 +1,35 @@
+remote_theme: daattali/beautiful-jekyll
+title: "Sumit Kumar"
+description: "Building Digital Solutions for Online Businesses"
+url: "https://ksumit-webdeveloper.github.io"
+author:
+  name: "Sumit Kumar"
+  email: "sumit.srcm@gmail.com"
+  github: "ksumit-webdeveloper"
+  linkedin: ""
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation links for the single-page sections + blog
+navbar-links:
+  - title: "About"
+    url: "#about"
+  - title: "Websites I’ve Developed"
+    url: "#work"
+  - title: "Pricing"
+    url: "#pricing"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Contact"
+    url: "#contact"
+
+# Social links (optional)
+social-links:
+  - title: "GitHub"
+    url: "https://github.com/ksumit-webdeveloper"
+  - title: "Email"
+    url: "mailto:sumit.srcm@gmail.com"
+
+# Favicon and images
+favicon: /assets/img/favicon.png
