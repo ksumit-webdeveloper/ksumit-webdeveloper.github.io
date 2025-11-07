@@ -4,6 +4,7 @@ title: Sumit Kumar
 ---
 
 <style>
+  
 /* 🔹 Modern Semi-Transparent Navbar */
 nav {
   position: fixed;
@@ -71,6 +72,7 @@ button {
 button:hover {
   background-color: #005b99;
 }
+  
 </style>
 
 <nav>
@@ -89,9 +91,10 @@ button:hover {
 <section id="about">
 
 <h2>💼 About Me</h2>
-I’m an IT Professional with over 10 years of experience specializing in **Operations Management for online marketplaces**.  
-My expertise covers all aspects of **e-commerce management**, including **product listing, catalog optimization, SEO, sales, and return management**.  
 
+I’m an IT Professional with over 10 years of experience specializing in Operations Management for **online marketplaces**. 
+
+My expertise covers all aspects of **e-commerce management**, including **product listing, catalog optimization, SEO, sales, and return management**.  
 Alongside my operations background, I’m also an expert in **developing and managing websites** — from **informative and blog sites** to fully functional **e-commerce stores** using platforms like **Shopify and WordPress**.  
 
 My greatest strength lies in **business awareness**, which enables me to design, streamline, and optimize **digital infrastructure and workflows**, building solutions that are not only scalable but also strategically aligned with business goals.
@@ -103,6 +106,7 @@ My greatest strength lies in **business awareness**, which enables me to design,
 <section id="websites">
 
 <h2> 🌐 Websites I’ve Developed</h2>
+
 - [Damiva.com](https://damiva.com)
 - [Blog.Damiva.com](https://blog.damiva.com)
 
@@ -111,6 +115,7 @@ My greatest strength lies in **business awareness**, which enables me to design,
 ---
 
 <section id="pricing">
+  
   <h2>💻 Website Development Pricing (INR)</h2>
 
   <div style="max-width:1000px;margin:20px auto;padding:10px;">
@@ -177,6 +182,7 @@ My greatest strength lies in **business awareness**, which enables me to design,
 <section id="blog">
 
 <h2> 📰 Blog</h2>
+
 #### My Approach to Website Development
 Crafting websites isn’t just about design—it’s about purpose. Every website I build aligns with the client’s business goals and long-term growth.
 
@@ -190,6 +196,7 @@ From managing thousands of SKUs to optimizing return cycles, my work has taught 
 <section id="contact">
 
 <h2> 📞 Contact Me</h2>
+
 If you’d like to discuss a project or request a quote, please fill out the form below.  
 Your message will be sent directly to my inbox.
 
@@ -200,10 +207,12 @@ Your message will be sent directly to my inbox.
   <button type="submit">Send Message</button>
 </form>
 
-<p style="text-align:center;margin-top:20px;">
+<p style="text-align:center; margin-top:20px;">
+  
 📧 [sumit.srcm@gmail.com](mailto:sumit.srcm@gmail.com)  
 📱 +91 9450142100  
 🌐 [GitHub Profile](https://github.com/ksumit-webdeveloper)
+
 </p>
 
 </section>
